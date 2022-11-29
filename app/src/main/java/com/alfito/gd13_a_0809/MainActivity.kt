@@ -1,4 +1,4 @@
-package com.alfito.gd11_a_0809
+package com.alfito.gd13_a_0809
 
 import android.content.Intent
 import androidx.appcompat.app.AppCompatActivity
@@ -18,9 +18,9 @@ import com.android.volley.toolbox.StringRequest
 import com.android.volley.toolbox.Volley
 import com.google.android.material.floatingactionbutton.FloatingActionButton
 import com.google.gson.Gson
-import com.alfito.gd11_a_0809.adapters.MahasiswaAdapter
-import com.alfito.gd11_a_0809.api.MahasiswaApi
-import com.alfito.gd11_a_0809.models.Mahasiswa
+import com.alfito.gd13_a_0809.adapters.MahasiswaAdapter
+import com.alfito.gd13_a_0809.api.MahasiswaApi
+import com.alfito.gd13_a_0809.models.Mahasiswa
 import org.json.JSONObject
 import java.nio.charset.StandardCharsets
 

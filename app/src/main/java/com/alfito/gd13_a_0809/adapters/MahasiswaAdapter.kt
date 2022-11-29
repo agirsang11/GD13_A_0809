@@ -1,4 +1,4 @@
-package com.alfito.gd11_a_0809.adapters
+package com.alfito.gd13_a_0809.adapters
 
 import android.content.Context
 import android.content.Intent
@@ -12,10 +12,10 @@ import android.widget.TextView
 import androidx.cardview.widget.CardView
 import androidx.recyclerview.widget.RecyclerView
 import com.google.android.material.dialog.MaterialAlertDialogBuilder
-import com.alfito.gd11_a_0809.AddEditActivity
-import com.alfito.gd11_a_0809.MainActivity
-import com.alfito.gd11_a_0809.R
-import com.alfito.gd11_a_0809.models.Mahasiswa
+import com.alfito.gd13_a_0809.AddEditActivity
+import com.alfito.gd13_a_0809.MainActivity
+import com.alfito.gd13_a_0809.R
+import com.alfito.gd13_a_0809.models.Mahasiswa
 import java.util.*
 import kotlin.collections.ArrayList
 
